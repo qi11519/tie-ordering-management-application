@@ -3,6 +3,7 @@
 <h3> The Tie Ordering Management Application is a mobile app designed to streamline the process of managing tie orders. </h3>
 
 Built using Flutter, this application provides an intuitive and user-friendly interface for both viewing existing orders and adding new ones.
+
 <img src="demo_preview/mainmenu.jpg" width="20%" height="20%">
 
 <h2>Key Features</h2>
@@ -26,24 +27,28 @@ Built using Flutter, this application provides an intuitive and user-friendly in
   2. Click on the "新增订单" button to create a new tie order.
   3. Fill in the required details, such as order date, school, color, length, and quantity.
   4. Click "Submit" to add the new order to the database.
+  
     <img src="demo_preview/add.jpg" width="20%" height="20%">
 
 - <h3>Viewing Existing Orders</h3>
 
   1. From the main menu, select "查看订单记录"(Check Order Record) to access the list of existing tie orders.
   2. Click on a specific order to view its details, including order date, school, color, length, quantity, order status, and completion date.
+  
 <img src="demo_preview/list.jpg" width="20%" height="20%">  <img src="demo_preview/filter.jpg" width="20%" height="20%">
 
 - <h3>Editing Order Details</h3>
 
   1. While viewing the details of an order, click on the "修改订单"(Edit Order) button.
   2. Update the necessary information, and click "修改"(Edit) to apply the changes.
+     
     <img src="demo_preview/edit.jpg" width="20%" height="20%">
 
 - <h3>Deleting an Order</h3>
 
   1. While viewing the details of an order, click on the "删除订单"(Delete Order) button.
   2. A confirmation dialog will appear. Click "确定"(Confirm) to proceed with the deletion, or "取消"(Cancel) to cancel the operation.
+     
     <img src="demo_preview/info.jpg" width="20%" height="20%">
 
 <h2>Caution (MongoDB Link Placement)</h2>
